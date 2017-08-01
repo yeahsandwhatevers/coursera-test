@@ -50,11 +50,11 @@ div.profile {
 	float: left;
 	width: 25%;
 	clear: both;
-	border: none;
 }
 
 div.profile p {
 	padding-right: .5em;
+	border-left: 0;
 }
 
 div.title {
