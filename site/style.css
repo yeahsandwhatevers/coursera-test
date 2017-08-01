@@ -51,7 +51,6 @@ div.profile {
 	width: 25%;
 	clear: both;
 	border: none;
-	margin-top: .5em;
 }
 
 div.profile p {
@@ -68,10 +67,6 @@ div.title {
 div.title h1 {
 	color: #ffffff;
 	padding-bottom: 0;
-}
-
-div.education {
-	margin-top: .5em;
 }
 
 div.footer {
